@@ -210,3 +210,4 @@ __marimo__/
 # Evitar archivos de datos
 *.csv
 *.xlsx
+*.pkl
