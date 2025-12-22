@@ -211,3 +211,8 @@ __marimo__/
 *.csv
 *.xlsx
 *.pkl
+
+# Evitar gráficos
+*.png
+*.jpeg
+*.jpg
